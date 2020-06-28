@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: onlineservicecloud-config-client
+    name: onlineservicecloud-config-client1
     
 eureka:
   client:
