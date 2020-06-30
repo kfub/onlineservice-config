@@ -15,11 +15,13 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
-rabbitmq:
-  host: 192.168.183.139
-  port: 5672
-  username: xuyihong
-  password: 123456
+      
+      
+# rabbitmq:
+#   host: 192.168.183.139
+#   port: 5672
+#   username: xuyihong
+#   password: 123456
 
 
 
